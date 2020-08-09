@@ -10,9 +10,9 @@ Telegram Channel for updates [link](https://t.me/joinchat/AAAAAFepWVRLIsjqwCO6_w
 ) | [other](https://www.anaconda.com/products/individual)   
 -  [1. Introduction session](https://www.youtube.com/watch?v=VW0PUBSxVxg&feature=youtu.be)
 
-**Question** How to read data stored in RAM?    
+-   **Question** How to read data stored in RAM? [here..](https://www.linkedin.com/posts/iiec-rise_how-to-read-the-entire-data-from-the-ram-activity-6698235562727411712-VhnS)    
 Note: deadline 15th August   
-**Things learnt**   
+-   **Things learnt**   
 -  how to make python to launch notepad/ chrome/ any particular site in chrome.
 ``` python    
 import os   
@@ -23,4 +23,7 @@ os.system("notepad")
 pip install pyttsx3
 import pyttsx3
 pyttsx3.speak("Welcome world")
-```
+```     
+### DAY 2 | 9 August
+-  [2. Session](https://www.youtube.com/watch?v=Mk3HvO3YEl8&feature=youtu.be)
+-  **Question** How to read data stored in RAM? [here..](https://www.linkedin.com/posts/iiec-rise_how-to-read-the-entire-data-from-the-ram-activity-6698235562727411712-VhnS)   
