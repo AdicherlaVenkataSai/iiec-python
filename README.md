@@ -51,4 +51,9 @@ dir(module_name)
 
 # what about built-in functions of python, then try this
 dir(__builtins__)
-```
+```     
+>  **sources :**
+-  [Online IDE ](http://repl.it)
+-  [Mobile App](https://play.google.com/store/apps/details?id=ru.iiec.pydroid3)
+-  redhat sessions [1](https://youtu.be/8Q83qs2MAVA) [2](https://youtu.be/JBNvnINsswo) [3](https://youtu.be/lpZysBJ2CRA) [4](https://youtu.be/aPyJQVC6R9E)
+-  iso [link 1](https://drive.google.com/file/d/1nZVXCVOy41LjAyOAiHMcNgFIwUlJYw16/view?usp=sharing)   [link 2](https://ia801004.us.archive.org/4/items/rhel-8.0-x86_64-dvd/rhel-8.0-x86_64-dvd_archive.torrent)
