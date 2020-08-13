@@ -54,6 +54,22 @@ dir(__builtins__)
 ```     
 >  **sources :**
 -  [Online IDE ](http://repl.it)
--  [Mobile App](https://play.google.com/store/apps/details?id=ru.iiec.pydroid3)
--  redhat sessions [1](https://youtu.be/8Q83qs2MAVA) [2](https://youtu.be/JBNvnINsswo) [3](https://youtu.be/lpZysBJ2CRA) [4](https://youtu.be/aPyJQVC6R9E)
--  iso [link 1](https://drive.google.com/file/d/1nZVXCVOy41LjAyOAiHMcNgFIwUlJYw16/view?usp=sharing)   [link 2](https://ia801004.us.archive.org/4/items/rhel-8.0-x86_64-dvd/rhel-8.0-x86_64-dvd_archive.torrent)
+-  [Mobile App](https://play.google.com/store/apps/details?id=ru.iiec.pydroid3)     
+-  iso download [link 1](https://drive.google.com/file/d/1nZVXCVOy41LjAyOAiHMcNgFIwUlJYw16/view?usp=sharing)   [link 2](https://ia801004.us.archive.org/4/items/rhel-8.0-x86_64-dvd/rhel-8.0-x86_64-dvd_archive.torrent)        
+
+### redhat sessions     
+[1. Session](https://youtu.be/8Q83qs2MAVA)      
+**Summary**      
+-  To find out the way to browse a ram. (Suppose when we intialize any variable x=5; in our program than it is taught to us that it gets stored in ram but now how one can proof that it is present in the ram.) 
+-  About GUI(Graphical User Interface) and CLI(Command Line Interface). 
+-  How to open applications using terminal (eg. Typing Firefox on the radhat and pressing enter will open the browser) 
+-  speak-ng command(to speak what O/P it is giving), date cmd, cal command, which command. 
+-  Saw that the cookies that fb and google send to our systems are very critical and even if someone by any way copies them to his/her system can get a complete acess of our Google and Facebook accounts or and other accounts and will never be asked to enter any username password and no otp verification will be there and also  a 3 level verification will not work.
+
+[2. Session](https://youtu.be/JBNvnINsswo)      
+**Summary**      
+[3. Session](https://youtu.be/lpZysBJ2CRA)      
+**Summary**         
+[4. Session](https://youtu.be/aPyJQVC6R9E)      
+**Summary** 
+
