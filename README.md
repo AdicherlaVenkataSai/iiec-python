@@ -108,9 +108,19 @@ Issue: If you can't see RedHat 64bit, kindly follow these steps:
 -  save the settings (press f10) and start the system.
 
 Note: check the function keys for your device and use it (they may vary from device to device).     
-Note: Still any issues can raise a question at [channel](https://discord.com/channels/740913042413584425/741900875043438710)
-
-
+Note: Still any issues can raise a question at [channel](https://discord.com/channels/740913042413584425/741900875043438710)        
+![a](https://github.com/AdicherlaVenkataSai/iiec-python/blob/master/linux%20resources/2.a.session.png)      
+![b](https://github.com/AdicherlaVenkataSai/iiec-python/blob/master/linux%20resources/2.b.session.png)      
+![c](https://github.com/AdicherlaVenkataSai/iiec-python/blob/master/linux%20resources/2.c.session.png)      
+![d](https://github.com/AdicherlaVenkataSai/iiec-python/blob/master/linux%20resources/2.d.session.png)      
+![e](https://github.com/AdicherlaVenkataSai/iiec-python/blob/master/linux%20resources/2.e.session.png)      
+![f](https://github.com/AdicherlaVenkataSai/iiec-python/blob/master/linux%20resources/2.f.session.png)      
+![g](https://github.com/AdicherlaVenkataSai/iiec-python/blob/master/linux%20resources/2.g.session.png)      
+![h](https://github.com/AdicherlaVenkataSai/iiec-python/blob/master/linux%20resources/2.h.session.png)      
+![i](https://github.com/AdicherlaVenkataSai/iiec-python/blob/master/linux%20resources/2.i.session.png)      
+![j](https://github.com/AdicherlaVenkataSai/iiec-python/blob/master/linux%20resources/2.j.session.png)      
+![k](https://github.com/AdicherlaVenkataSai/iiec-python/blob/master/linux%20resources/2.k.session.png)      
+[testing](https://github.com/AdicherlaVenkataSai/iiec-python/blob/master/linux%20resources/testing)     
 [3. Session](https://youtu.be/lpZysBJ2CRA)      
 **Summary**         
 [4. Session](https://youtu.be/aPyJQVC6R9E)      
