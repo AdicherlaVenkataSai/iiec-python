@@ -126,5 +126,7 @@ testing file which is created [file](https://github.com/AdicherlaVenkataSai/iiec
 [3. Session](https://youtu.be/lpZysBJ2CRA)      
 **Summary**         
 [4. Session](https://youtu.be/aPyJQVC6R9E)      
-**Summary** 
+**Summary**     
+### DAY 3 | 15 August       
+[3. Session](https://www.youtube.com/watch?v=ElOJReuu60g&feature=youtu.be)
 
