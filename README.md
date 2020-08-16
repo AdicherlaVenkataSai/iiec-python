@@ -13,7 +13,7 @@ Note: To have clear track, created different readme files for each week (maintai
 
 [Q/A: How to read data stored in RAM?](https://www.linkedin.com/posts/iiec-rise_how-to-read-the-entire-data-from-the-ram-activity-6698235562727411712-VhnS)
 ```
-will be updated soon
+# solution will be updated soon
 ```
 ### [WEEK 2](https://github.com/AdicherlaVenkataSai/iiec-python/blob/master/week2_readme.md)
 
@@ -35,7 +35,7 @@ will be updated soon
 ```
 [Q/A: How to reverse the string using the slicing operator?](https://www.linkedin.com/posts/iiec-rise_how-to-reverse-the-string-using-the-slicing-activity-6700816023345475584-imu6/)
 ```
-will be updating soon
+# solution will be updated soon
 ```
 
 
