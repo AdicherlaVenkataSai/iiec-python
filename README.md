@@ -131,11 +131,7 @@ while : ; do echo -n -e "`date +%T``sleep 1`\b\b\b\b\b\b\b\b" ; done &
 [4. Session](https://youtu.be/aPyJQVC6R9E)      
 **Summary**     
 ### DAY 3 | 15 August       
-[3. Session](https://www.youtube.com/watch?v=ElOJReuu60g&feature=youtu.be)      
-**Summary**  
--  a 
--  b 
--  c will be upaded after the session 
+[3. Session](https://www.youtube.com/watch?v=ElOJReuu60g&feature=youtu.be)		
 [How to tell your OS to send a whatsapp message to a particular number using python code?](https://www.linkedin.com/posts/iiec-rise_how-to-tell-your-os-to-send-a-whatsapp-message-activity-6700461293234597888-RJnH/)
 ```python3
 # solution will be upadted soon
@@ -153,12 +149,60 @@ while : ; do echo -n -e "`date +%T``sleep 1`\b\b\b\b\b\b\b\b" ; done &
 # solution will be upadted soon
 ```
 
+**Summary**  
+-  In general function's are used to perform respective tasks, speak() is a function which is available in the pyttsx3 module. which is used to output the audio from  the system.
 
-my application code
 ```python3
-'''
+
+import pyttsx3
+
+pyttsx3.speak('output the audio')
+
+# this snippet makes system to speak out 'output the audio', in general, it speaks what ever the argument is passed to the speak()
+
+```
+
+-  n order to perform some tasks we need respective function to do it, all these function's might not be available in the default module, sometimes we need to import few packages/modules for an special tasks to be done, just like pyttsx3 module.
+
+
+
+```python3
+
+pip list  # this shows what all modules we have
+
+# if the module isn't available then install it.
+
+pip install pyttsx3  # pip install module-name
+
+```
+
+-  IDE - Integrated Development  Enviroment
+
+Ex: jupyter (python + r + julia)
+
+`shift + enter` to run cell 
+
+`alt + enter ` to run the cell and create a new cell
+
+`clt + enter` to run the selected cells
+
+`esc + d` will delete the cell 
+
+
+
+-  To run the system commands we need to, we need to use operating system functions to communicate with os and make those commands get executed
+
+```python3
+
+import os
+
+os.system('firefox')
+
+# this snippet enables us to run firefox bowser using python code
+
+```
 simple application 
-'''
+```python3
 # importing required modules
 
 import os  # use to access the os programs
@@ -192,8 +236,57 @@ else:
     
 ```
 ### DAY 4 | 16 August       
-[4. Session](https://www.youtube.com/watch?v=2PjfpSgtuE8&feature=youtu.be)      
-**Summary**  
--  a 
--  b 
--  c will be upaded after the session 
+[4. Session](https://www.youtube.com/watch?v=2PjfpSgtuE8&feature=youtu.be)		
+[How to reverse the string using the slicing operator?](https://www.linkedin.com/posts/iiec-rise_how-to-reverse-the-string-using-the-slicing-activity-6700816023345475584-imu6/)
+```
+will be updating soon
+```
+**Summary**		
+-  every string is can be accessed similar as list
+```
+x = 'hello'
+print(x[0])  # prints out h
+
+# we can even apply slicing operation
+# prints starting pos to (5-1)th pos
+print(x[:5])  # prints out hello
+
+
+
+# in steps
+# print(x[0:2:step_size])
+# it prints it with step size of 2  
+print(x[0:5:2])  # prints out hlo
+
+
+
+# to print the last one
+print(x[-1])  # prints o
+
+```
+
+-  `shift + enter` to run the cell
+-  `alt + enter` to run and create a new cell 
+-  to check whether a word/ character present in given strinf we can use `in` keyword
+
+```
+x = 'this is the example done in jupyter notebook'
+print(x)
+
+if 'jupyter' in x:
+    print('Hurray!! given statement has juypter in it')
+else:
+    print('Sorry!!')
+```
+```
+import os
+x = 'can you launch the chrome browser'
+print(x)
+
+if 'chrome' in x:
+    os.system("start chrome")
+else:
+    print('Sorry!!')
+    
+```
+
