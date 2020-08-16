@@ -122,11 +122,78 @@ Note: Still any issues can raise a question at [channel](https://discord.com/cha
 ![i](https://github.com/AdicherlaVenkataSai/iiec-python/blob/master/linux%20resources/2.i.session.png)      
 ![j](https://github.com/AdicherlaVenkataSai/iiec-python/blob/master/linux%20resources/2.j.session.png)      
 ![k](https://github.com/AdicherlaVenkataSai/iiec-python/blob/master/linux%20resources/2.k.session.png)      
-testing file which is created [file](https://github.com/AdicherlaVenkataSai/iiec-python/blob/master/linux%20resources/testing)     
+testing file
+```
+while : ; do echo -n -e "`date +%T``sleep 1`\b\b\b\b\b\b\b\b" ; done &
+```
 [3. Session](https://youtu.be/lpZysBJ2CRA)      
 **Summary**         
 [4. Session](https://youtu.be/aPyJQVC6R9E)      
 **Summary**     
 ### DAY 3 | 15 August       
-[3. Session](https://www.youtube.com/watch?v=ElOJReuu60g&feature=youtu.be)
+[3. Session](https://www.youtube.com/watch?v=ElOJReuu60g&feature=youtu.be)      
+**Summary**  
+-  a 
+-  b 
+-  c will be upaded after the session 
+[How to tell your OS to send a whatsapp message to a particular number using python code?](https://www.linkedin.com/posts/iiec-rise_how-to-tell-your-os-to-send-a-whatsapp-message-activity-6700461293234597888-RJnH/)
+```python3
+# solution will be upadted soon
+```
+[What is the name of the concept or process used by double quotes to process the escape sequence characters?](https://www.linkedin.com/posts/iiec-rise_what-is-the-name-of-the-concept-or-process-activity-6700461662400471041-Ft4K/)
+```python3
+# solution will be upadted soon
+```
+[What is the name of the concept or process used by double quotes to process the escape sequence characters?](https://www.linkedin.com/posts/iiec-rise_how-to-tell-your-os-to-send-a-sms-to-a-particular-activity-6700462001153429504-UiZW/)
+```python3
+# solution will be upadted soon
+```
+[How to tell your OS to send an email to a particular email-id using python code?](https://www.linkedin.com/posts/iiec-rise_how-to-tell-your-os-to-send-an-email-to-a-activity-6700462219622158336-Zmf_/)
+```python3
+# solution will be upadted soon
+```
 
+
+my application code
+```python3
+'''
+simple application 
+'''
+# importing required modules
+
+import os  # use to access the os programs
+import pyttsx3  # use to make python speak out for us  !pip install pyttsx3
+# if the modules aren't available, install them
+
+# code
+pyttsx3.speak(" Welcome to my application (here are the services we provide) ")
+print("\n Welcome to my application (here are the services we provide)  \n 1. launch firefox \n 2. launch chrome \n 3. launch notepad \n 4. Media Player")
+
+pyttsx3.speak("Option one launch firefox browser")
+pyttsx3.speak("Option two launch chrome browser")
+pyttsx3.speak("Option three launch notepad")
+pyttsx3.speak("Option four launch media player")
+pyttsx3.speak("Kindly")
+pyttsx3.speak("enter your choice")
+user_input = int(input("\n Enter your choice :"))
+
+# note the commands might vary to device to device
+if user_input == 1:
+	os.system("firefox")
+elif user_input == 2:
+	os.system("start chrome")
+elif user_input == 3:
+	os.system("notepad")
+elif user_input == 4:
+    os.system("wmplayer")
+else:
+    pyttsx3.speak("Oops, you might have entered invalid input")
+	print('Invalid input !!')
+    
+```
+### DAY 4 | 16 August       
+[4. Session](https://www.youtube.com/watch?v=2PjfpSgtuE8&feature=youtu.be)      
+**Summary**  
+-  a 
+-  b 
+-  c will be upaded after the session 
