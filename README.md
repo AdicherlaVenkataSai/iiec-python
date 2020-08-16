@@ -1,6 +1,7 @@
 # IIEC (Indian Innovation & Entrepreneurship Community) - PYTHON 
 >  *Specialization in Python (with flask towards Data Science)*   
-Instructor [Mr. Vimal Daga](https://www.linkedin.com/in/vimaldaga/) Sir || [IIEC - RISE](https://www.linkedin.com/company/iiec-rise/) || [Google Drive (screen shots)](https://drive.google.com/drive/folders/1RAJNUsdK2TWK94rrByaouXPkKDlR6-vb) || [Telegram (updates)](https://t.me/joinchat/AAAAAFepWVRLIsjqwCO6_w) || [Discord (doubts)](https://discord.com/invite/DqAgTT)
+Instructor [Mr. Vimal Daga](https://www.linkedin.com/in/vimaldaga/) Sir || [IIEC - RISE](https://www.linkedin.com/company/iiec-rise/) || [Google Drive (screen shots)](https://drive.google.com/drive/folders/1RAJNUsdK2TWK94rrByaouXPkKDlR6-vb) || [Telegram (updates)](https://t.me/joinchat/AAAAAFepWVRLIsjqwCO6_w) || [Discord (doubts)](https://discord.com/invite/DqAgTT)		
+
 
 Anaconda | [windows](https://repo.anaconda.com/archive/Anaconda3-2020.07-Windows-x86_64.exe) | [mac os](https://repo.anaconda.com/archive/Anaconda3-2020.07-MacOSX-x86_64.pkg
 ) | [linux](https://repo.anaconda.com/archive/Anaconda3-2020.07-Linux-x86_64.sh
@@ -244,14 +245,16 @@ x[0: 4]  # prints this
 # this slicing from 0th pos to (4-1)th pos
 x[0:4: 1] # prints this
 # here the step size is 1
-x[0:: 3] # prints t s t s m r f d 4
+x[0:: 3] # prints tsshsmyod4
 # here the step size is 3
+# note: I miss interpreted the output, can check the snap
 x[-1]  # prints 4
 # this is used to print the last element
 x[::-1] # prints the string in reverse
 ```
--  here we got introduced with the `in` keyword of python, which will be a major advantage in developing the human interactive program
+![a](https://github.com/AdicherlaVenkataSai/iiec-python/blob/master/resources/4.a.session.png)
 
+-  here we got introduced with the `in` keyword of python, which will be a major advantage in developing the human interactive program
 -  this will be a part of human interactive program, where we provide a menu for the user to select the option and make them executed using the python program, which do them interacting with os
 
 -  logical opertors either it returns `True` or `False` based on the condition is evaulated
@@ -318,4 +321,11 @@ else:
 	print('Invalid choice!')
 ```
 
-Note: Need's to devlop more interactive system with mutliple tasks (deadline 22 august)
+Note: Need's to devlop more interactive system with mutliple tasks (deadline 22 august)	
+
+
+> Hi :wave: [AVS](https://github.com/AdicherlaVenkataSai) here ||
+:smile: Thank you walking till the end with my thoughts... ||
+Any questions :question: | mistakes :speech_balloon: | thoughts :thought_balloon: can reach me at [WA](https://wa.me/+918008527755) | [LinkedIn](https://www.linkedin.com/in/adicherlavenkatasai/) ||
+fork it :+1: | star it :star:
+
