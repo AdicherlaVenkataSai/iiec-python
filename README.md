@@ -45,7 +45,7 @@ pyttsx3.speak("It's good to learn How to learn")
     -  In order to use a package first we need to know about it well rather using for the solving the current situation
     -  whats those `>>>`  in live programming, its called REPL (Read Evaluate Print Loop) | [webiste](https://repl.it/languages/python3)
 3. Idea : Take few minutes to go through the core usage/ limitation/ documentation of every module in use
-``` python
+``` python3
 notepad test.py  # by deafults it is saved with "test.py" .txt extension
 notepad "test.py"  # no extension
 dir  # to check it
@@ -259,7 +259,7 @@ x[::-1] # prints the string in reverse
 -  `break` keyword is used to terminate the loop
 -  use the concepts we learnt till date, we can input human usable language and extract keywords from it to perform the task which user requested
 -  every string is can be accessed similar as list
-```
+```python3
 x = 'hello'
 print(x[0])  # prints out h
 
@@ -280,7 +280,7 @@ print(x[-1])  # prints o
 -  `alt + enter` to run and create a new cell 
 -  to check whether a word/ character present in given strinf we can use `in` keyword
 
-```
+```python3
 x = 'this is the example done in jupyter notebook'
 print(x)
 
@@ -289,7 +289,7 @@ if 'jupyter' in x:
 else:
     print('Sorry!!')
 ```
-```
+```python3
 import os
 x = 'can you launch the chrome browser'
 print(x)
@@ -300,4 +300,22 @@ else:
     print('Sorry!!')
     
 ```
+simple application 
+```python3
+# importing required modules
 
+import os  # use to access the os programs
+# import pyttsx3  # use to make python speak out for us  !pip install pyttsx3
+# if the modules aren't available, install them
+
+# code
+user_input = input('Enter your request :')
+
+if(('launch' in user_input) or ('run' in user_input)) and (('notepad' in user_input) or ('editor' in user_input)):
+	# os.system('start chrome') windows
+	os.system('google-chrome')  # linux
+else:
+	print('Invalid choice!')
+```
+
+Note: Need's to devlop more interactive system with mutliple tasks (deadline 22 august)
