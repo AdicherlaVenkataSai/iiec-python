@@ -9,10 +9,10 @@ Anaconda | [windows](https://repo.anaconda.com/archive/Anaconda3-2020.07-Windows
  
 Note: To have clear track, created different readme files for each week. This main readme file holds/ acts as a INDEX to other files.
 
-
-#### [1. WEEK](https://github.com/AdicherlaVenkataSai/iiec-python/blob/master/week1_readme.md) | 8 august
-#### [0. REDHAT](https://github.com/AdicherlaVenkataSai/iiec-python/blob/master/redhat_readme.md) 
-#### [2. WEEK](https://github.com/AdicherlaVenkataSai/iiec-python/blob/master/week2_readme.md) | 15 august
+# INDEX
+#### [1. WEEK](https://github.com/AdicherlaVenkataSai/iiec-python/blob/master/week1_readme.md) | Introductiion
+#### [0. REDHAT](https://github.com/AdicherlaVenkataSai/iiec-python/blob/master/redhat_readme.md) | Redhat installation, tips n' tricks
+#### [2. WEEK](https://github.com/AdicherlaVenkataSai/iiec-python/blob/master/week2_readme.md) | Menu-Driven program basics
 
 
 
