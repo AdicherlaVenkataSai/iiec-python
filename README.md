@@ -2,10 +2,12 @@
 >  *Specialization in Python (with flask towards Data Science)*   
 Instructor [Mr. Vimal Daga](https://www.linkedin.com/in/vimaldaga/) Sir || [IIEC - RISE](https://www.linkedin.com/company/iiec-rise/) || [Google Drive (screen shots)](https://drive.google.com/drive/folders/1RAJNUsdK2TWK94rrByaouXPkKDlR6-vb) || [Telegram (updates)](https://t.me/joinchat/AAAAAFepWVRLIsjqwCO6_w) || [Discord (doubts)](https://discord.com/invite/DqAgTT)
 
-### DAY 1 | 8 August    
 Anaconda | [windows](https://repo.anaconda.com/archive/Anaconda3-2020.07-Windows-x86_64.exe) | [mac os](https://repo.anaconda.com/archive/Anaconda3-2020.07-MacOSX-x86_64.pkg
 ) | [linux](https://repo.anaconda.com/archive/Anaconda3-2020.07-Linux-x86_64.sh
-) | [other](https://www.anaconda.com/products/individual)   
+) | [other](https://www.anaconda.com/products/individual)
+
+### DAY 1 | 8 August    
+   
 [1. Session](https://www.youtube.com/watch?v=VW0PUBSxVxg&feature=youtu.be)	
 
 [Q/A: How to read data stored in RAM?](https://www.linkedin.com/posts/iiec-rise_how-to-read-the-entire-data-from-the-ram-activity-6698235562727411712-VhnS)
@@ -155,13 +157,13 @@ while : ; do echo -n -e "`date +%T``sleep 1`\b\b\b\b\b\b\b\b" ; done &
 # solution will be updated soon
 ```
 **Summary**  
--  In general function's are used to perform respective tasks, speak() is a function which is available in the pyttsx3 module. which is used to output the audio from  the system.
+-  In general function's are used to perform respective tasks, `speak()` is a function which is available in the `pyttsx3` module. which is used to output the audio from  the system.
 ```python3
 import pyttsx3
 pyttsx3.speak('output the audio')
 # this snippet makes system to speak out 'output the audio', in general, it speaks what ever the argument is passed to the speak()
 ```
--  n order to perform some tasks we need respective function to do it, all these function's might not be available in the default module, sometimes we need to import few packages/modules for an special tasks to be done, just like pyttsx3 module.
+-  n order to perform some tasks we need respective function to do it, all these function's might not be available in the default module, sometimes we need to import few packages/modules for an special tasks to be done, just like `pyttsx3` module.
 ```python3
 pip list  # this shows what all modules we have
 # if the module isn't available then install it.
@@ -227,7 +229,35 @@ else:
 ```
 will be updating soon
 ```
-**Summary**		
+**Summary**  
+-  we have explored how to run the `juypter notebook` from command promt, also we have seen few shortcuts in it
+
+-  new shortcut `alt + enter` to run the cell and create new cell
+
+-  string datatype holds bunch of characters, each of them can be indexed similar as lists
+
+-  slicing operator is either used in lists/ strings to slice the data
+```python3
+x = 'this is the summary for day4'
+x[0]  # prints t
+x[0: 4]  # prints this
+# this slicing from 0th pos to (4-1)th pos
+x[0:4: 1] # prints this
+# here the step size is 1
+x[0:: 3] # prints t s t s m r f d 4
+# here the step size is 3
+x[-1]  # prints 4
+# this is used to print the last element
+x[::-1] # prints the string in reverse
+```
+-  here we got introduced with the `in` keyword of python, which will be a major advantage in developing the human interactive program
+
+-  this will be a part of human interactive program, where we provide a menu for the user to select the option and make them executed using the python program, which do them interacting with os
+
+-  logical opertors either it returns `True` or `False` based on the condition is evaulated
+-  `while`loop is similar like `if` statment, it executes as long the condition is satisfied. If the intial condition doesnt satisfy it wont enter into the loop
+-  `break` keyword is used to terminate the loop
+-  use the concepts we learnt till date, we can input human usable language and extract keywords from it to perform the task which user requested
 -  every string is can be accessed similar as list
 ```
 x = 'hello'
@@ -237,20 +267,15 @@ print(x[0])  # prints out h
 # prints starting pos to (5-1)th pos
 print(x[:5])  # prints out hello
 
-
-
 # in steps
 # print(x[0:2:step_size])
 # it prints it with step size of 2  
 print(x[0:5:2])  # prints out hlo
 
-
-
 # to print the last one
 print(x[-1])  # prints o
 
 ```
-
 -  `shift + enter` to run the cell
 -  `alt + enter` to run and create a new cell 
 -  to check whether a word/ character present in given strinf we can use `in` keyword
