@@ -9,9 +9,10 @@ Anaconda | [windows](https://repo.anaconda.com/archive/Anaconda3-2020.07-Windows
  
 Note: To have clear track, created different readme files for each week. This main readme file holds/ acts as a INDEX to other files.
 
-#### [1.WEEK](https://github.com/AdicherlaVenkataSai/iiec-python/blob/master/week1_readme.md) | 8 august
-#### [Redhat sessions](https://github.com/AdicherlaVenkataSai/iiec-python/blob/master/redhat_readme.md)
-#### [2.WEEK](https://github.com/AdicherlaVenkataSai/iiec-python/blob/master/week2_readme.md) | 15 august
+
+#### [1. WEEK](https://github.com/AdicherlaVenkataSai/iiec-python/blob/master/week1_readme.md) | 8 august
+#### [REDHAT](https://github.com/AdicherlaVenkataSai/iiec-python/blob/master/redhat_readme.md) 
+#### [2. WEEK](https://github.com/AdicherlaVenkataSai/iiec-python/blob/master/week2_readme.md) | 15 august
 
 
 
@@ -20,8 +21,5 @@ Note: To have clear track, created different readme files for each week. This ma
 
 
 
-> Hi :wave: [AVS](https://github.com/AdicherlaVenkataSai) here ||
-:smile: Thank you walking till the end with my thoughts... ||
-Any questions :question: | mistakes :speech_balloon: | thoughts :thought_balloon: can reach me at [WA](https://wa.me/+918008527755) | [LinkedIn](https://www.linkedin.com/in/adicherlavenkatasai/) ||
-fork it :+1: | star it :star:
+
 
