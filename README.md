@@ -6,7 +6,12 @@ Instructor [Mr. Vimal Daga](https://www.linkedin.com/in/vimaldaga/) Sir || [IIEC
 Anaconda | [windows](https://repo.anaconda.com/archive/Anaconda3-2020.07-Windows-x86_64.exe) | [mac os](https://repo.anaconda.com/archive/Anaconda3-2020.07-MacOSX-x86_64.pkg
 ) | [linux](https://repo.anaconda.com/archive/Anaconda3-2020.07-Linux-x86_64.sh
 ) | [other](https://www.anaconda.com/products/individual)   
-[1. Session](https://www.youtube.com/watch?v=VW0PUBSxVxg&feature=youtu.be) || [Q. How to read data stored in RAM?](https://www.linkedin.com/posts/iiec-rise_how-to-read-the-entire-data-from-the-ram-activity-6698235562727411712-VhnS)    
+[1. Session](https://www.youtube.com/watch?v=VW0PUBSxVxg&feature=youtu.be)	
+
+[Q/A: How to read data stored in RAM?](https://www.linkedin.com/posts/iiec-rise_how-to-read-the-entire-data-from-the-ram-activity-6698235562727411712-VhnS)
+```
+will be updated soon
+```
 Note: deadline 15th August    
 
 **Things learnt**   
@@ -25,7 +30,7 @@ pyttsx3.speak("Welcome world")
 pyttsx3.speak("It's good to learn How to learn")
 ```     
 ### DAY 2 | 9 August
-[2. Session](https://www.youtube.com/watch?v=Mk3HvO3YEl8&feature=youtu.be) || [Q. How to read data stored in RAM?](https://www.linkedin.com/posts/iiec-rise_how-to-read-the-entire-data-from-the-ram-activity-6698235562727411712-VhnS)
+[2. Session](https://www.youtube.com/watch?v=Mk3HvO3YEl8&feature=youtu.be)		
 
 **Things learnt**
 1. Summary : 
@@ -131,75 +136,55 @@ while : ; do echo -n -e "`date +%T``sleep 1`\b\b\b\b\b\b\b\b" ; done &
 [4. Session](https://youtu.be/aPyJQVC6R9E)      
 **Summary**     
 ### DAY 3 | 15 August       
-[3. Session](https://www.youtube.com/watch?v=ElOJReuu60g&feature=youtu.be)		
-[How to tell your OS to send a whatsapp message to a particular number using python code?](https://www.linkedin.com/posts/iiec-rise_how-to-tell-your-os-to-send-a-whatsapp-message-activity-6700461293234597888-RJnH/)
-```python3
-# solution will be upadted soon
-```
-[What is the name of the concept or process used by double quotes to process the escape sequence characters?](https://www.linkedin.com/posts/iiec-rise_what-is-the-name-of-the-concept-or-process-activity-6700461662400471041-Ft4K/)
-```python3
-# solution will be upadted soon
-```
-[What is the name of the concept or process used by double quotes to process the escape sequence characters?](https://www.linkedin.com/posts/iiec-rise_how-to-tell-your-os-to-send-a-sms-to-a-particular-activity-6700462001153429504-UiZW/)
-```python3
-# solution will be upadted soon
-```
-[How to tell your OS to send an email to a particular email-id using python code?](https://www.linkedin.com/posts/iiec-rise_how-to-tell-your-os-to-send-an-email-to-a-activity-6700462219622158336-Zmf_/)
-```python3
-# solution will be upadted soon
-```
+[3. Session](https://www.youtube.com/watch?v=ElOJReuu60g&feature=youtu.be)	
 
+[Q/A: How to tell your OS to send a whatsapp message to a particular number using python code?](https://www.linkedin.com/posts/iiec-rise_how-to-tell-your-os-to-send-a-whatsapp-message-activity-6700461293234597888-RJnH/)
+```python3
+# solution will be updated soon
+```
+[Q/A: What is the name of the concept or process used by double quotes to process the escape sequence characters?](https://www.linkedin.com/posts/iiec-rise_what-is-the-name-of-the-concept-or-process-activity-6700461662400471041-Ft4K/)
+```python3
+# solution will be updated soon
+```
+[Q/A: What is the name of the concept or process used by double quotes to process the escape sequence characters?](https://www.linkedin.com/posts/iiec-rise_how-to-tell-your-os-to-send-a-sms-to-a-particular-activity-6700462001153429504-UiZW/)
+```python3
+# solution will be updated soon
+```
+[Q/A: How to tell your OS to send an email to a particular email-id using python code?](https://www.linkedin.com/posts/iiec-rise_how-to-tell-your-os-to-send-an-email-to-a-activity-6700462219622158336-Zmf_/)
+```python3
+# solution will be updated soon
+```
 **Summary**  
 -  In general function's are used to perform respective tasks, speak() is a function which is available in the pyttsx3 module. which is used to output the audio from  the system.
-
 ```python3
-
 import pyttsx3
-
 pyttsx3.speak('output the audio')
-
 # this snippet makes system to speak out 'output the audio', in general, it speaks what ever the argument is passed to the speak()
-
 ```
-
 -  n order to perform some tasks we need respective function to do it, all these function's might not be available in the default module, sometimes we need to import few packages/modules for an special tasks to be done, just like pyttsx3 module.
-
-
-
 ```python3
-
 pip list  # this shows what all modules we have
-
 # if the module isn't available then install it.
-
 pip install pyttsx3  # pip install module-name
-
 ```
-
--  IDE - Integrated Development  Enviroment
-
-Ex: jupyter (python + r + julia)
-
-`shift + enter` to run cell 
-
-`alt + enter ` to run the cell and create a new cell
-
-`clt + enter` to run the selected cells
-
-`esc + d` will delete the cell 
-
-
-
+-  IDE - Integrated Development  Enviroment | In jupyter (python + r + julia) | `shift + enter` to run cell | `alt + enter ` to run the cell and create a new cell | `clt + enter` to run the selected cells | `esc + d` will delete the cell 
 -  To run the system commands we need to, we need to use operating system functions to communicate with os and make those commands get executed
-
 ```python3
-
 import os
-
 os.system('firefox')
-
 # this snippet enables us to run firefox bowser using python code
+```
+-  In the Menu- Driven program , we trying build the human interactive program, which performs the tasks whcih ever the user asks. Currently we're building it
+We a first task to build the as good as interactive model as we can.
 
+-  help() funtion provides us the complete detail of the commands which we wants to use/ which we are using
+`print()` command has an argument `end = '\n'` by default it is set to a new, we can modify it and can see the changes in the `print()` function behaviour.
+
+- conditional if and else, the name itself speaks for  it
+```python3
+if True: do some task
+else: dont do the task
+# this is naive explaination.
 ```
 simple application 
 ```python3
@@ -236,8 +221,9 @@ else:
     
 ```
 ### DAY 4 | 16 August       
-[4. Session](https://www.youtube.com/watch?v=2PjfpSgtuE8&feature=youtu.be)		
-[How to reverse the string using the slicing operator?](https://www.linkedin.com/posts/iiec-rise_how-to-reverse-the-string-using-the-slicing-activity-6700816023345475584-imu6/)
+[4. Session](https://www.youtube.com/watch?v=2PjfpSgtuE8&feature=youtu.be)
+
+[Q/A: How to reverse the string using the slicing operator?](https://www.linkedin.com/posts/iiec-rise_how-to-reverse-the-string-using-the-slicing-activity-6700816023345475584-imu6/)
 ```
 will be updating soon
 ```
