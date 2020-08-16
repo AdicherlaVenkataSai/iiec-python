@@ -11,7 +11,7 @@ Note: To have clear track, created different readme files for each week. This ma
 
 
 #### [1. WEEK](https://github.com/AdicherlaVenkataSai/iiec-python/blob/master/week1_readme.md) | 8 august
-#### [REDHAT](https://github.com/AdicherlaVenkataSai/iiec-python/blob/master/redhat_readme.md) 
+#### [0. REDHAT](https://github.com/AdicherlaVenkataSai/iiec-python/blob/master/redhat_readme.md) 
 #### [2. WEEK](https://github.com/AdicherlaVenkataSai/iiec-python/blob/master/week2_readme.md) | 15 august
 
 
