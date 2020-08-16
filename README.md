@@ -9,13 +9,13 @@ Anaconda | [windows](https://repo.anaconda.com/archive/Anaconda3-2020.07-Windows
  
 Note: To have clear track, created different readme files for each week (maintainig questions here itself). This main readme file holds/ acts as a INDEX to other files.
 
-# [WEEK 1](https://github.com/AdicherlaVenkataSai/iiec-python/blob/master/week1_readme.md)
+### [WEEK 1](https://github.com/AdicherlaVenkataSai/iiec-python/blob/master/week1_readme.md)
 
 [Q/A: How to read data stored in RAM?](https://www.linkedin.com/posts/iiec-rise_how-to-read-the-entire-data-from-the-ram-activity-6698235562727411712-VhnS)
 ```
 will be updated soon
 ```
-# [WEEK 2](https://github.com/AdicherlaVenkataSai/iiec-python/blob/master/week2_readme.md)
+### [WEEK 2](https://github.com/AdicherlaVenkataSai/iiec-python/blob/master/week2_readme.md)
 
 [Q/A: How to tell your OS to send a whatsapp message to a particular number using python code?](https://www.linkedin.com/posts/iiec-rise_how-to-tell-your-os-to-send-a-whatsapp-message-activity-6700461293234597888-RJnH/)
 ```python3
