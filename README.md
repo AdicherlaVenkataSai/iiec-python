@@ -1,6 +1,6 @@
 # IIEC (Indian Innovation & Entrepreneurship Community) - PYTHON 
 >  *Specialization in Python (with flask towards Data Science)*   
-Instructor [Mr. Vimal Daga](https://www.linkedin.com/in/vimaldaga/) Sir || [IIEC - RISE](https://www.linkedin.com/company/iiec-rise/) || [Google Drive (screen shots)](https://drive.google.com/drive/folders/1RAJNUsdK2TWK94rrByaouXPkKDlR6-vb) || [Telegram (updates)](https://t.me/joinchat/AAAAAFepWVRLIsjqwCO6_w) || [Discord (doubts)](https://discord.com/invite/DqAgTT)		
+Instructor [Mr. Vimal Daga](https://www.linkedin.com/in/vimaldaga/) Sir || [IIEC - RISE](https://www.linkedin.com/company/iiec-rise/) || [Google Drive (screen shots)](https://drive.google.com/drive/folders/1RAJNUsdK2TWK94rrByaouXPkKDlR6-vb) || [Telegram (updates)](https://t.me/joinchat/AAAAAFepWVRLIsjqwCO6_w) || [Discord (doubts)](https://discord.com/channels/740913042413584425/741758894581350411)		
 
 
 Anaconda | [windows](https://repo.anaconda.com/archive/Anaconda3-2020.07-Windows-x86_64.exe) | [mac os](https://repo.anaconda.com/archive/Anaconda3-2020.07-MacOSX-x86_64.pkg
@@ -40,6 +40,11 @@ Note: Complete the Menu-Driven program (deadline 20 august 6 PM) | [submission](
 
 
 
+> Hi [AVS](https://github.com/AdicherlaVenkataSai) here  
+Thanks for check out the repo  
+Hope it made you easy to track down the growth you made  
+If you like the work hit STAR, feel free to fork or PR it  
+reach me at: [WA](https://wa.me/+918008527755) | [linkedIn](https://www.linkedin.com/in/adicherlavenkatasai/) am waiting to connect with you!!
 
 
 
