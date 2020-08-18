@@ -7,7 +7,7 @@ Anaconda | [windows](https://repo.anaconda.com/archive/Anaconda3-2020.07-Windows
 ) | [linux](https://repo.anaconda.com/archive/Anaconda3-2020.07-Linux-x86_64.sh
 ) | [other](https://www.anaconda.com/products/individual)
  
-Note: To have clear track, created different readme files for each week. This main readme file holds/ acts as a INDEX to other files
+Note: To have clear track, created different readme files for each week. This main readme file holds/ acts as a INDEX to other files  
 Note: This links direct you to complete week description readme's, here it has( links | sources | QA | solutions | code snippets)  
 
 # INDEX
