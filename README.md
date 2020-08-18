@@ -19,7 +19,7 @@ Note: This links direct you to complete week description readme's, here it has( 
 
 Note: haven't installed rhel yet [check detailed steps](https://github.com/AdicherlaVenkataSai/iiec-python/edit/master/redhat_readme.md)
 
-#### [1. WEEK](https://github.com/AdicherlaVenkataSai/iiec-python/blob/master/week1_readme.md) | Introductiion  
+#### [1. WEEK](https://github.com/AdicherlaVenkataSai/iiec-python/blob/master/week1_readme.md) | Introduction  
 -  [1. session](https://youtu.be/VW0PUBSxVxg)
 -  [2. session](https://youtu.be/Mk3HvO3YEl8)  
 
