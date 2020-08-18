@@ -44,7 +44,7 @@ Note: Complete the Menu-Driven program (deadline 20 august 6 PM) | [submission](
 Thanks for check out the repo  
 Hope it made you easy to track down the growth you made  
 If you like the work hit STAR, feel free to fork or PR it  
-reach me at: [WA](https://wa.me/+918008527755) | [linkedIn](https://www.linkedin.com/in/adicherlavenkatasai/) am waiting to connect with you!!
+reach me at: [WA](https://wa.me/+918008527755) | [LINKEDIN](https://www.linkedin.com/in/adicherlavenkatasai/) am waiting to connect with you!!
 
 
 
