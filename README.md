@@ -10,12 +10,16 @@ Anaconda | [windows](https://repo.anaconda.com/archive/Anaconda3-2020.07-Windows
 Note: To have clear track, created different readme files for each week. This main readme file holds/ acts as a INDEX to other files  
 Note: This links direct you to complete week description readme's, here it has( links | sources | QA | solutions | code snippets)  
 
+**Complete details of [Projects](https://github.com/AdicherlaVenkataSai/iiec-python/tree/master/projects) and its explaination will be available [here.](https://github.com/AdicherlaVenkataSai/iiec-python/tree/master/projects)**
+
 # INDEX
 #### [0. REDHAT](https://github.com/AdicherlaVenkataSai/iiec-python/blob/master/redhat_readme.md) | Redhat installation, tips n' tricks
--  [1. session](https://youtu.be/8Q83qs2MAVA)   
--  [2. session](https://youtu.be/JBNvnINsswo)
--  [3. session](https://youtu.be/lpZysBJ2CRA) 
--  [4. session](https://youtu.be/aPyJQVC6R9E)  
+-  [1. session](https://youtu.be/8Q83qs2MAVA) | Basic linux commands 
+-  [2. session](https://youtu.be/JBNvnINsswo) | Basic commands, Virtual box setup, Redhat 8 installation
+-  [3. session](https://youtu.be/lpZysBJ2CRA) | Basic linux networking Unique tip about IP address 
+-  [4. session](https://youtu.be/aPyJQVC6R9E) | Linux n'Python basic 
+-  [5. session](https://youtu.be/23u8LKt6uSw) | Remote login - ssh Putty 
+-  [6. session](https://youtu.be/nXJEe8WoBmg) | Configure webserver 
 
 Note: haven't installed rhel yet [check detailed steps](https://github.com/AdicherlaVenkataSai/iiec-python/edit/master/redhat_readme.md)
 
@@ -36,6 +40,9 @@ Note: haven't installed rhel yet [check detailed steps](https://github.com/Adich
 [Q/A: How to tell your OS to send an email to a particular email-id using python code?](https://www.linkedin.com/posts/iiec-rise_how-to-tell-your-os-to-send-an-email-to-a-activity-6700462219622158336-Zmf_/)  
 [Q/A: How to reverse the string using the slicing operator?](https://www.linkedin.com/posts/iiec-rise_how-to-reverse-the-string-using-the-slicing-activity-6700816023345475584-imu6/)  
 Note: Complete the Menu-Driven program (deadline 20 august 6 PM) | [submission](https://forms.gle/qprYM77twNRabGG98)
+
+**Check-out my code [here..](https://github.com/AdicherlaVenkataSai/iiec-python/blob/master/projects/1.%20Menu-Driven(commands%20based)/app.py)  
+Note: Will be available after deadline**
 
 
 
