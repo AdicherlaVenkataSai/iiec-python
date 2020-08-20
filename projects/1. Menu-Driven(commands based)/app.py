@@ -1,12 +1,12 @@
 ''' 
 Code is developed on Ubuntu OS
 It's complete brute-force approcah to execute commands
-It's still in developing phase, other types of approaches are also available in the folder (1test, 2test, 3test)
+Still in developing phase, check out the other approaches(1test, 2test, 3test)
 Created by: VenkataSai Adicherla 
-Time: 4:00 pm 20 August
-Guidance: Concepts learnt form IIEC RISE program by Mr. Vimal Daga Sir.
-feel free to download the code and check it.
-any errors or questions can contact me(details in my git profile)
+Time: 4:00 pm 20 August (updated)
+Guidance: Concepts learnt form IIEC RISE program by Mr. Vimal Daga Sir
+Feel free to download the code and check it
+Any errors or questions can contact me(details in my git profile)
 '''
 # importing the helper libraries
 import os
