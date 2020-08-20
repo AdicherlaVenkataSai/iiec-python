@@ -42,7 +42,7 @@ Note: haven't installed rhel yet [check detailed steps](https://github.com/Adich
 Note: Complete the Menu-Driven program (deadline 20 august 6 PM) | [submission](https://forms.gle/qprYM77twNRabGG98)
 
 **Check-out my code [here..](https://github.com/AdicherlaVenkataSai/iiec-python/blob/master/projects/1.%20Menu-Driven(commands%20based)/app.py)  
-Note: Will be available after deadline**
+Note: Code only supports on ubuntu os**
 
 
 
