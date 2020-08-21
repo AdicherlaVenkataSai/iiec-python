@@ -72,6 +72,81 @@ testing file
 while : ; do echo -n -e "`date +%T``sleep 1`\b\b\b\b\b\b\b\b" ; done &
 ```
 [3. Session](https://youtu.be/lpZysBJ2CRA)      
-**Summary**         
+**Summary**
+-  `ifconfig` shows all the ip address, the first one of all is actual `ether` ip address.
+-  mobile number cloning
+-  valid ip address is of 4 bytes (representation can be any)
+-  neospace (shows ip routing)
+-  use `nslookup site-name`
+```
+$ nslookup youtube.com
+
+Server:		127.0.0.53
+Address:	127.0.0.53#53  (actual ip)
+
+Non-authoritative answer:
+Name:	youtube.com
+Address: 216.58.196.78
+Name:	youtube.com
+Address: 2404:6800:4009:809::200e
+```
+-  how do ip get stored in ram? 4 bytes
+```
+will be updated soon!
+```
+
 [4. Session](https://youtu.be/aPyJQVC6R9E)      
 **Summary**     
+-  `gnome-terminal` command can create a terminal.
+
+```
+# its a bash script
+for((i = 0; i<10; i++))
+do
+gnome-terminal
+done
+# note: It creates 10 terminals at the instance of executing the code.
+# and manually closing them will be hectic if the no of terminals are more.
+```
+-  `which <command-name>` gives the path of the command.
+-  `ps -aux` is used to view all the commands in running state.
+-  `ps -aux | grep <command-name>/<keyword>` to search it.
+-  To close a command we can do `manually`, or `clt+c` , or `kill <process-id>`
+-  To close the huge no of terminals we can use the `kill <process-id>` command and the process id can be obtained using `ps -aux | grep <gnome-terminal>`
+-  `cat > <filename.extension>` to see the data directly on prompt/terminal, it can also used to create file and write data from CLI. It even replaces the new data
+using a slight change in syntax `cat >> <filename.extension>`, which appends the data to exsisting file.
+-  `touch <filename.extension>` is also used  to create the file (only).
+-  To add a new user,`useradd  <user-name>` and set password `passwd  <password>`.
+-  To verify the account created or not `id <user-name>`, it return few details if exist, else  gives `no such user`.
+-  `whoami` gives the username / use `tty`.   
+-  [Can we switch the console, with out logging out from one?]()
+```
+will be updated soon!
+```
+-  Mutiple terminals == virtual terminals
+-  To switch terminals use `clt + alt + fi`, where f refers to function key i th terminal , or use `chvt <terminal-number>` (change terminal). 
+-  At max redhat has we can have 6 termianls default, 2 GUI (f1/f2), 4 CLI(f3-f6).
+-  Can you enable the mouse interation in linuc CLI? if yes. how?
+-  `CLI`--> `GUI`, for this use `startx` command.
+-  [How to create more than 6 virtual teminals in redhat8?]()
+```
+will be updated soon!
+```
+-  [How to create a file without command?]()
+```
+will be updated soon!
+```
+-  `>  <filename.extension>` it creates a file ( `>` is a symbol), here we dont use any command. But [how its possible to create file with out a command?]()
+```
+will be updated soon!
+```
+
+[5. Session](https://www.youtube.com/watch?v=nXJEe8WoBmg&feature=youtu.be)      
+**Summary** 
+-  
+-  
+
+[6. Session](https://www.youtube.com/watch?v=23u8LKt6uSw&feature=youtu.be)      
+**Summary** 
+-  
+-  
