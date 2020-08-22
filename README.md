@@ -10,7 +10,7 @@ Anaconda | [windows](https://repo.anaconda.com/archive/Anaconda3-2020.07-Windows
 Note: To have clear track, created different readme files for each week. This main readme file holds/ acts as a INDEX to other files  
 Note: This links direct you to complete week description readme's, here it has( links | sources | QA | solutions | code snippets)  
 
-**Complete details of [Projects](https://github.com/AdicherlaVenkataSai/iiec-python/tree/master/projects) and its explaination will be available [here.](https://github.com/AdicherlaVenkataSai/iiec-python/tree/master/projects)**
+**Complete details of Projects and its explaination will be available [here.](https://github.com/AdicherlaVenkataSai/iiec-python/tree/master/projects)**
 
 # INDEX
 #### [0. REDHAT](https://github.com/AdicherlaVenkataSai/iiec-python/blob/master/redhat_readme.md) | Redhat installation, tips n' tricks
@@ -41,8 +41,7 @@ Note: haven't installed rhel yet [check detailed steps](https://github.com/Adich
 [Q/A: How to reverse the string using the slicing operator?](https://www.linkedin.com/posts/iiec-rise_how-to-reverse-the-string-using-the-slicing-activity-6700816023345475584-imu6/)  
 Note: Complete the Menu-Driven program (deadline 20 august 6 PM) | [submission](https://forms.gle/qprYM77twNRabGG98)
 
-**Check-out my code [here..](https://github.com/AdicherlaVenkataSai/iiec-python/blob/master/projects/1.%20Menu-Driven(commands%20based)/app.py)  
-Note: Code only supports on ubuntu os**
+**Check-out my code [here..](https://github.com/AdicherlaVenkataSai/iiec-python/blob/master/projects/1.%20Menu-Driven(commands%20based)/tau.py)**
 
 
 
