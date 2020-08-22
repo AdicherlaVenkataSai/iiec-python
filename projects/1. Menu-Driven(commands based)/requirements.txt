@@ -1,0 +1,19 @@
+Requiremts to run the code:
+______________________________________________________________________________________________________________________________________
+python3
+import os   
+import pyttsx3
+import pyjokes
+
+note: if theren't avaialble kindly install them.
+1. check: pip list
+2. install: pip install os
+3. import: import os
+4. use required function: from os import system as sys (optinal to alias it)
+
+
+note: pyttsx3 needs a package to run in ubuntu os
+so lets install it `sudo apt install libespeak1` , source: https://github.com/nateshmbhat/pyttsx3/issues/41
+
+
+In the entire program we're going two use these two libraries/modules and `nested-if`, `lists`, `while`, `print` concepts of python.
