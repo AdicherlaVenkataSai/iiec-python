@@ -44,6 +44,9 @@ Note: Complete the Menu-Driven program (deadline 20 august 6 PM) | [submission](
 **Check-out my code [here..](https://github.com/AdicherlaVenkataSai/iiec-python/blob/master/projects/1.%20Menu-Driven(commands%20based)/tau.py)**
 
 
+#### [3. WEEK](https://github.com/AdicherlaVenkataSai/iiec-python/blob/master/week3_readme.md) | CGI and API
+-  [5. session](https://www.youtube.com/watch?v=vBUx9KZyoZM&feature=youtu.be)
+
 
 
 > Hi [AVS](https://github.com/AdicherlaVenkataSai) here  
