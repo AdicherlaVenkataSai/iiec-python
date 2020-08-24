@@ -1,6 +1,5 @@
-### DAY 1 | 8 August    
-   
-[1. Session](https://www.youtube.com/watch?v=VW0PUBSxVxg&feature=youtu.be)	
+## WEEK 1
+### DAY 1 | 8 August | [1. Python 3 basics to expert](https://youtu.be/VW0PUBSxVxg)
 
 [Q/A: How to read data stored in RAM?](https://www.linkedin.com/posts/iiec-rise_how-to-read-the-entire-data-from-the-ram-activity-6698235562727411712-VhnS)
 ```
@@ -23,8 +22,7 @@ import pyttsx3
 pyttsx3.speak("Welcome world")
 pyttsx3.speak("It's good to learn How to learn")
 ```     
-### DAY 2 | 9 August
-[2. Session](https://www.youtube.com/watch?v=Mk3HvO3YEl8&feature=youtu.be)		
+### DAY 2 | 9 August | [2. Python 3 basics to expert](https://youtu.be/Mk3HvO3YEl8) 	
 
 **Things learnt**
 1. Summary : 
