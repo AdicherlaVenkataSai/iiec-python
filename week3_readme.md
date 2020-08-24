@@ -1,4 +1,5 @@
-### DAY 5 | 23 August | [CGI n' API](https://www.youtube.com/watch?v=vBUx9KZyoZM&feature=youtu.be)    
+## WEEK 3
+### DAY 5 | 23 August | [5. Python 3 API and CGI](https://www.youtube.com/watch?v=vBUx9KZyoZM&feature=youtu.be)  
 **Summary**
 -  CGI - Common Gate Interface: here on be-half of requesting(user) system, the host(server) system executes it for requesting one and shares the output, so it feels like requesting system itself is runnning the service and getting results. 
 ```
@@ -39,9 +40,6 @@ print()  # this new line will differentiate header with body part
 ...........   #body part
 .............. #body part
 ```
-
-ISO-OSI model (presentation layer)
-
 -  instead of os.system we can use subprocess.getoutput
 ```
 import subprocess
@@ -56,3 +54,6 @@ subprocess.getoutput("command")
 -  she bang/ hash bang (!#....) is used to show/explain which interpreter/complier is used to run the program/file
 -  the new will play a major role in CGI, because it differentiates the header and the body, if not mentioned results in Internal error, because it assumes all of the lines are headers
 
+```
+will be implementing the steps and provide the ip link to try out yourself. (comming soon)
+```
