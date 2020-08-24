@@ -1,5 +1,5 @@
-### DAY 3 | 15 August       
-[3. Session](https://www.youtube.com/watch?v=ElOJReuu60g&feature=youtu.be)	
+## WEEK 2
+### DAY 3 | 15 August | [3. Python 3 basics to expert](https://youtu.be/ElOJReuu60g)	
 
 [Q/A: How to tell your OS to send a whatsapp message to a particular number using python code?](https://www.linkedin.com/posts/iiec-rise_how-to-tell-your-os-to-send-a-whatsapp-message-activity-6700461293234597888-RJnH/)
 ```python3
@@ -83,8 +83,7 @@ else:
 	print('Invalid input !!')
     
 ```
-### DAY 4 | 16 August       
-[4. Session](https://www.youtube.com/watch?v=2PjfpSgtuE8&feature=youtu.be)
+### DAY 4 | 16 August | [4. Python 3 basics to expert](https://youtu.be/2PjfpSgtuE8)  
 
 [Q/A: How to reverse the string using the slicing operator?](https://www.linkedin.com/posts/iiec-rise_how-to-reverse-the-string-using-the-slicing-activity-6700816023345475584-imu6/)
 ```
