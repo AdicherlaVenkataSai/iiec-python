@@ -1,5 +1,5 @@
 ### redhat sessions     
-[1. Session](https://youtu.be/8Q83qs2MAVA)      
+[1. Basic linux commands ](https://youtu.be/8Q83qs2MAVA)      
 **Summary**      
 -  To find out the way to browse a ram. (Suppose when we intialize any variable x=5; in our program than it is taught to us that it gets stored in ram but now how one can proof that it is present in the ram.) 
 -  About GUI(Graphical User Interface) and CLI(Command Line Interface) 
@@ -7,7 +7,7 @@
 -  speak-ng command(to speak what O/P it is giving), date cmd, cal command, which command 
 -  Saw that the cookies that fb and google send to our systems are very critical and even if someone by any way copies them to his/her system can get a complete acess of our Google and Facebook accounts or and other accounts and will never be asked to enter any username password and no otp verification will be there and also  a 3 level verification will not work
 
-[2. Session](https://youtu.be/JBNvnINsswo)      
+[2. Basic commands, Virtual box setup, Redhat 8 installation](https://youtu.be/JBNvnINsswo)      
 **Summary** 
 -  how to pause the command by using 'sleep'
 -  difference between 'ctrl+z' and 'ctrl+c'
@@ -71,7 +71,7 @@ testing file
 ```
 while : ; do echo -n -e "`date +%T``sleep 1`\b\b\b\b\b\b\b\b" ; done &
 ```
-[3. Session](https://youtu.be/lpZysBJ2CRA)      
+[3. Basic linux networking Unique tip about IP address](https://youtu.be/lpZysBJ2CRA)     
 **Summary**
 -  `ifconfig` shows all the ip address, the first one of all is actual `ether` ip address.
 -  mobile number cloning
@@ -94,8 +94,8 @@ Address: 2404:6800:4009:809::200e
 ```
 will be updated soon!
 ```
+[4. Linux n'Python basic ](https://youtu.be/aPyJQVC6R9E) 
 
-[4. Session](https://youtu.be/aPyJQVC6R9E)      
 **Summary**     
 -  `gnome-terminal` command can create a terminal.
 
@@ -141,12 +141,13 @@ will be updated soon!
 will be updated soon!
 ```
 
-[5. Session](https://www.youtube.com/watch?v=nXJEe8WoBmg&feature=youtu.be)      
+[5. Remote login - ssh Putty ](https://youtu.be/23u8LKt6uSw) 
+    
 **Summary** 
 -  
 -  
 
-[6. Session](https://www.youtube.com/watch?v=23u8LKt6uSw&feature=youtu.be)      
+[6. Configure webserver](https://youtu.be/nXJEe8WoBmg)       
 **Summary** 
 -  
 -  
