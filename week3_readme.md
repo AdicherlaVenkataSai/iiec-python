@@ -1,5 +1,11 @@
 ## WEEK 3
 ### DAY 5 | 23 August | [5. Python 3 API and CGI](https://www.youtube.com/watch?v=vBUx9KZyoZM&feature=youtu.be)  
+
+[Q/A: What is the difference between Radio(Option) button and CheckBox used in HTML form?](https://www.linkedin.com/posts/iiec-rise_what-is-the-difference-between-radiooption-activity-6704649237650530305-rHAL)
+```
+will be updated soon
+```     
+
 **Summary**
 -  CGI - Common Gate Interface: here on be-half of requesting(user) system, the host(server) system executes it for requesting one and shares the output, so it feels like requesting system itself is runnning the service and getting results. 
 ```

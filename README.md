@@ -36,7 +36,9 @@ Note: Complete the Menu-Driven program (deadline 20 august 6 PM) | [submission](
 #### [3. WEEK](https://github.com/AdicherlaVenkataSai/iiec-python/blob/master/week3_readme.md) | CGI and API
 -  [5. Python 3 API and CGI](https://www.youtube.com/watch?v=vBUx9KZyoZM&feature=youtu.be)
 
-
+#### [4. WEEK](https://github.com/AdicherlaVenkataSai/iiec-python/blob/master/week4_readme.md) | CGI and API
+-  [6. Python 3 API and CGI](https://www.youtube.com/watch?v=XXddYlWr6p8&feature=youtu.be)
+-  [7. Python 3 API and CGI](https://www.youtube.com/watch?v=osbBiyxTRHg&feature=youtu.be)
 
 > Hi [AVS](https://github.com/AdicherlaVenkataSai) here | Thanks for visiting!! | [WA](https://wa.me/+918008527755) | [LINKEDIN](https://www.linkedin.com/in/adicherlavenkatasai/)
 
