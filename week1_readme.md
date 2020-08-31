@@ -24,7 +24,7 @@ pyttsx3.speak("It's good to learn How to learn")
 ```     
 ### DAY 2 | 9 August | [2. Python 3 basics to expert](https://youtu.be/Mk3HvO3YEl8) 	
 
-**Things learnt**
+**[Things learnt](https://www.linkedin.com/feed/update/urn:li:activity:6698274561131118592)**
 1. Summary : 
     -  Fundamentals of learning (how to understand things)
     -  exploring what all we can do with command prompt in windows

@@ -6,7 +6,7 @@
 will be updated soon
 ```     
 
-**Summary**
+**[Summary](https://www.linkedin.com/posts/iiec-rise_iiec-iiecabrrise-iiecabrconnect-activity-6703352555637899264-OF6y)**
 -  CGI - Common Gate Interface: here on be-half of requesting(user) system, the host(server) system executes it for requesting one and shares the output, so it feels like requesting system itself is runnning the service and getting results. 
 ```
 The CGI --> web services provided by host(server) system

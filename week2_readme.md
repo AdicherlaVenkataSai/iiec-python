@@ -17,7 +17,7 @@
 ```python3
 # solution will be updated soon
 ```
-**Summary**  
+**[Summary](https://www.linkedin.com/posts/iiec-rise_day2-iiec-iiecabrrise-activity-6700446400737501184-xvOx/)**  
 -  In general function's are used to perform respective tasks, `speak()` is a function which is available in the `pyttsx3` module. which is used to output the audio from  the system.
 ```python3
 import pyttsx3
@@ -89,7 +89,7 @@ else:
 ```
 will be updating soon
 ```
-**Summary**  
+**[Summary](https://www.linkedin.com/posts/iiec-rise_iiec-iiecabrrise-iiecabrconnect-activity-6700804279592087552-vjk3)**  
 -  we have explored how to run the `juypter notebook` from command promt, also we have seen few shortcuts in it
 
 -  new shortcut `alt + enter` to run the cell and create new cell
