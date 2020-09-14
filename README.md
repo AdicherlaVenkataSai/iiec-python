@@ -41,11 +41,19 @@ Note: Complete the Menu-Driven program (deadline 20 august 6 PM) | [submission](
 -  [7. Python 3 API and CGI](https://www.youtube.com/watch?v=osbBiyxTRHg&feature=youtu.be)
 
 
-#### [5. WEEK](https://github.com/AdicherlaVenkataSai/iiec-python/blob/master/week5_readme.md) 
+#### [5. WEEK](https://github.com/AdicherlaVenkataSai/iiec-python/blob/master/week5_readme.md) | CGI and API
 -  [8. Python 3 API and CGI](https://www.youtube.com/watch?v=p-9unDfaZCo)
 
-> Hi [AVS](https://github.com/AdicherlaVenkataSai) here | Thanks for visiting!! | [WA](https://wa.me/+918008527755) | [LINKEDIN](https://www.linkedin.com/in/adicherlavenkatasai/)
 
+#### [6. WEEK](https://github.com/AdicherlaVenkataSai/iiec-python/blob/master/week6_readme.md) | CGI and API
+-  [9. Python 3 API and CGI](https://youtu.be/OFzbAn0IAfQ)
+-  [10. Python 3 API and CGI](https://youtu.be/-3n3ifUDIh8)
+
+
+
+**Can reach me at**     
+[![Whatsapp: venkatasaiadicherla](https://img.shields.io/badge/-venkatasaiadicherla-%2325D366.svg?&flat-square&logo=whatsapp&logoColor=white&link=https://wa.me/+918008527755)](https://wa.me/+918008527755)
+[![Linkedin: venkatasaiadicherla](https://img.shields.io/badge/-venkatasaiadicherla-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adicherlavenkatasai/)](https://www.linkedin.com/in/adicherlavenkatasai/)
 
 
 
