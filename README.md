@@ -44,10 +44,18 @@ Note: Complete the Menu-Driven program (deadline 20 august 6 PM) | [submission](
 #### [5. WEEK](https://github.com/AdicherlaVenkataSai/iiec-python/blob/master/week5_readme.md) | CGI and API
 -  [8. Python 3 API and CGI](https://www.youtube.com/watch?v=p-9unDfaZCo)
 
+#### [0. DOCKER](https://github.com/AdicherlaVenkataSai/iiec-python/blob/master/docker_readme.md) | Basics of Docker
+-  [1. Session](https://www.youtube.com/watch?v=-lpDRE3Fcj0&feature=youtu.be)
+-  [2. Session](https://www.youtube.com/watch?v=YCIf4Aj7Uoc&feature=youtu.be)
+-  [3. Session](https://www.youtube.com/watch?v=wmGgmaMmPEQ&feature=youtu.be)
 
 #### [6. WEEK](https://github.com/AdicherlaVenkataSai/iiec-python/blob/master/week6_readme.md) | CGI and API
 -  [9. Python 3 API and CGI](https://youtu.be/OFzbAn0IAfQ)
 -  [10. Python 3 API and CGI](https://youtu.be/-3n3ifUDIh8)
+
+
+#### [7. WEEK](https://github.com/AdicherlaVenkataSai/iiec-python/blob/master/week7_readme.md) | CGI and API
+-  [11. Python 3 API and CGI](https://youtu.be/OFzbAn0IAfQ)
 
 
 

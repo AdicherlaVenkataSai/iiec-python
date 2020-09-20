@@ -1,4 +1,4 @@
-## WEEK 5
+## WEEK 6
 ### DAY 9 | 12 September | [9. Python 3 API and CGI](https://youtu.be/OFzbAn0IAfQ)
 
 **[Summary](https://www.linkedin.com/posts/iiec-rise_iiec-iiecabrrise-iiecabrconnect-activity-6710600904183173120-6dYb/)**
