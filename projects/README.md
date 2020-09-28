@@ -18,4 +18,5 @@ Note: In this entire program we're only using `os.system` module , `nested-if el
 Note: If you want to execute the code, kindly ensure all the [requirements](https://github.com/AdicherlaVenkataSai/iiec-python/blob/master/projects/1.%20Menu-Driven(commands%20based)/requirements.txt) are satisifed.   
 Note: As we used `speak` function, [snaps](https://github.com/AdicherlaVenkataSai/iiec-python/tree/master/projects/1.%20Menu-Driven(commands%20based)/snaps) cant prove its beauty, so try it (I haven't updated the sanps, kindly go through Demo execution).
 
-
+## 2. CGI- Menu-Driven program (simple linux commands)		
+[Demo execution](https://github.com/AdicherlaVenkataSai/iiec-python/blob/master/projects/2.%20CGI-MenuDriven/task2.mp4) | [code](https://github.com/AdicherlaVenkataSai/iiec-python/blob/master/projects/2.%20CGI-MenuDriven/test) | [LinkedIn post](https://www.linkedin.com/posts/activity-6716418547117109248-cfR7)  

@@ -1,0 +1,65 @@
+#!/usr/bin/python3
+
+import cgi
+import subprocess
+
+print("context-type: text/html")
+print()
+print("""
+<!DOCTYPE html>
+	<html> <head> <title>CGI-Menu Driven</title> </head>
+		<body>
+		<center>
+			<div class = "form1">
+			<form action = '/cgi-bin/test' >
+				<h1 style="color: WHITE">CGI - Menu Driven Program</h1><br><br>
+				<p>Linux Commands</p><br>
+				<h2 style="color: WHITE">feed me the commands</h2>
+				<input type = 'text' name = 'command' id = 'textid1' placeholder = "Am Hungry!"/ >
+				<input type = 'submit' id = "b2"/>
+			</form>
+			</div>
+			<style type="text/css">
+				body
+				{
+					background-color: black;
+					color: white;
+ 	     				font-family:Open Sans;
+				}
+				form1
+				{
+					text-align: center;
+					text-decoration-color:green;
+					margin: auto;
+				 	width: 50vw;
+				 	height: 50vh;
+				 	position: absolute;
+				    	top:1vh;
+				    	bottom: 1vh;
+				    	left: 1vw;
+				    	right: 1vw;
+				    	margin: auto;
+				    	padding: 10vh;
+   				}
+			</style>
+		</body>
+	</html>
+""")
+
+
+data = cgi.FieldStorage()
+user_input = data.getvalue("command")
+CMD = user_input.lower()
+
+
+
+try:
+	output = subprocess.getoutput(CMD)
+	if "command not found" in output or "Error" in output:
+		print("\n Oops! something went wrong...")
+		print("\n Please enter valid command")
+	else:
+		print("\n")
+		print("""<h3 style="color: white">{} </h3>""".format(output))
+except:
+	print("Error")

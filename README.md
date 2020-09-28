@@ -57,7 +57,9 @@ Note: Complete the Menu-Driven program (deadline 20 august 6 PM) | [submission](
 #### [7. WEEK](https://github.com/AdicherlaVenkataSai/iiec-python/blob/master/week7_readme.md) | CGI and API
 -  [11. Python 3 API and CGI](https://youtu.be/OFzbAn0IAfQ)
 
-
+#### 8. WEEK (no class)     
+**Check-out my code [here..]()**       
+Note: Implement the Menu-Driven program as CGI (deadline 29 sept 10 PM) | [submission](https://bit.ly/pythontask2)
 
 **Can reach me at**     
 [![Whatsapp: venkatasaiadicherla](https://img.shields.io/badge/-venkatasaiadicherla-%2325D366.svg?&flat-square&logo=whatsapp&logoColor=white&link=https://wa.me/+918008527755)](https://wa.me/+918008527755)
