@@ -32,6 +32,15 @@ Note: We use docker because it has less provinsion time like `1 sec` to complete
 -  Docker containers provides the `isolation` (if we affected with any bug/virus) it cant affect the outside the container. In general we can lauch `one container` for `one program` (python - os1, firefox - os2 ...).
 -  Inside the docker program gives output as CLI/text - can be displayed on terminal, but when it gives output as GUI(Chrome, firefox, other GUI applications) - it gives error `no DISPLAY environment variable specified`.
 -  **Does it mean can't we lauch a GUI pogram in docker contianer? YES but how?** 
+-  `docker rmi <os-name>:<os-version>` -  to remove the image os, if its shown any error we can force it remove using `-f` (in end).
+-  old:`docker --help`, new: `docker <management-commands> --help` - all commands of docker is available.
+-  `docker <special-commands> <other-options>` -  it's more specific each type special-commands/management-commands (container, image, volume, swarm). old:`docker <command> options`, new: `docker <management-commands> <command> options`.
+-  `echo date` - treats date as a string, `echo $(date)` - treats it as command and returns the output.
+-  `docker container ls -a -q` - gives the complete Id list of the containers.
+-  In order to remove all the containers, instead of doing one by one we can use `docker container rm $(docker container ls -a -q)` as it gives back all the container Id's, `rm` will remove one by one. As we know `rm` container doesn't remove the running containers, so we force it to do using `docker container rm -f $()`.
+-  When we launch the docker container will get into the container, but when you want to lauch multiple container we need to use different terminals. In order to avoid it we can exit the present container and launch another (but the container will get shutdown), so we can apply this trick **detach container** using `left-ctl+p+q`, these makes we come out of container by detaching it rather than shutdown. If you want to go in (back to previous container) use `docker attach <os-name>`.
+-  `docker run -it  --name <abc>  <os-name>:<os-version>  <program-name>` - will the program and gives the output, programs can be ml models/python/linux commands, what ever it might be. (note the program should be in the container <os-name>)      
+-  **Pipeline : install --> boot --> program --> shutdown --> teminate**, we apply this in docker too `docker run -it  --name <abc> --rm <os-name>:<os-version>  <program-name>` - will execute the program and teminates the container.
 
 
 [2. Session](https://www.youtube.com/watch?v=YCIf4Aj7Uoc&feature=youtu.be)      
