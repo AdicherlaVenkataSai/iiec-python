@@ -1,4 +1,4 @@
-## WEEK 8
+## WEEK 9
 ### DAY 12 | 3 October | [12. Python 3 API and CGI](https://www.youtube.com/watch?v=BQh4Qto_V68&feature=youtu.be)
 
 **[Summary](https://www.linkedin.com/posts/iiec-rise_iiec-iiecabrrise-iiecabrconnect-activity-6718210808234418176-1QNB/)**
@@ -30,4 +30,5 @@ iiec()
 
 
 Note: 13th day session was suspended.
+
 
