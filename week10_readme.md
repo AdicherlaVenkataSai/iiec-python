@@ -1,5 +1,5 @@
 ## WEEK 10
-### DAY 14 | 11 October | [14. Python Data Science NumPy and Pandas](https://www.youtube.com/watch?v=zllkohlUpp0&feature=youtu.be) 
+### DAY 13 | 11 October | [13. Python Data Science NumPy and Pandas](https://www.youtube.com/watch?v=zllkohlUpp0&feature=youtu.be) 
 
 **[Summary](https://www.linkedin.com/posts/iiec-rise_iiec-iiecabrrise-iiecabrconnect-activity-6721114077785022464-tn5i)**
 -  When we have the `dataset` we can perfrom `queries(search)`, `data analysis(historical data)` and `data analytics(future data)`.  

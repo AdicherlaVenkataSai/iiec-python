@@ -26,9 +26,5 @@ iiec()
 ```
 -  Parentheses used in the function to call the function to perform the operation in the block of code in function.
 
-### DAY 13 | 4 October | [13. Python 3 API and CGI](https://www.youtube.com/watch?v=zllkohlUpp0&feature=youtu.be)       
-
-
-Note: 13th day session was suspended.
 
 

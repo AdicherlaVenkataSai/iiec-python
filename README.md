@@ -63,12 +63,15 @@ Note: Implement the Menu-Driven program as CGI (deadline 29 sept 10 PM) | [submi
 
 #### [9. WEEK](https://github.com/AdicherlaVenkataSai/iiec-python/blob/master/week9_readme.md) | CGI and API
 -  [12. Python 3 API and CGI](https://www.youtube.com/watch?v=BQh4Qto_V68&feature=youtu.be)
--  [13. Python 3 API and CGI](https://www.youtube.com/watch?v=zllkohlUpp0&feature=youtu.be)     
+    
 
 Note: 13th day session was suspended.
 
 #### [10. WEEK](https://github.com/AdicherlaVenkataSai/iiec-python/blob/master/week10_readme.md) | Python Data Science NumPy and Pandas
--  [14. Python Data Science NumPy and Pandas](https://www.youtube.com/watch?v=zllkohlUpp0&feature=youtu.be)   
+-  [13. Python Data Science NumPy and Pandas](https://www.youtube.com/watch?v=zllkohlUpp0&feature=youtu.be)   
+
+#### [11. WEEK](https://github.com/AdicherlaVenkataSai/iiec-python/blob/master/week11_readme.md) | Python Data Science NumPy and Pandas
+-  [14. Python Data Science NumPy and Pandas](https://www.youtube.com/watch?v=0qlhv8tk8RE&feature=youtu.be)   
 
 
 **Can reach me at**     
